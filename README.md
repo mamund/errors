@@ -19,7 +19,7 @@ The default RFC7807 extension you can expect is `mamund`:
 
 ```
 {
-  "type": "https://datatracker.ietf.org/doc/html/rfc7807#section-3",
+  "type": "https://github.com/mamund/errors",
   "title": "SimpleStorage: [company]",
   "detail": "Not Found [xxx]",
   "status": "400",
