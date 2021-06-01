@@ -17,7 +17,8 @@ The simplest form of RFC7807 error my apps produce looks like thissimple example
 ```
 
 ## General `mamund` Extension
-The default RFC7807 extension you can expect is `mamund`:
+The default RFC7807 extension you can expect is `mamund` (see exmaple below). All the `mamund` extension properties are OPTIONAL. Other properties MAY appear. Clients SHOULD ignore any properties/values you do not recognize or understand.
+
 
 ```
 {
@@ -38,5 +39,5 @@ The default RFC7807 extension you can expect is `mamund`:
 }
 ```
 
-## Additional Properties
-**NOTE**: Additional properties/objects MAY appear within the `mamund` extension. Client apps SHOULD ignore any properties they do not recognize or understand. 
+## RFC2116
+The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED",  "MAY", and "OPTIONAL" in this document are to be interpreted as described in [RFC 2119](https://datatracker.ietf.org/doc/html/rfc2119). 
