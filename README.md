@@ -29,9 +29,11 @@ The default RFC7807 extension you can expect is `mamund`:
   "mamund": {
     "dateTime": "2021-06-01T16:55:52.481Z",
     "appName": "bigco-company",
+    "buildVersion": "1.0.1",
     "serverID": "EYC-01",
-    "internalCode": "{local error code}",
-    "stackTrace": "{full stack trace}",
+    "internalCode": "{ss-nf-01}",
+    "stateVars": [{name:value}],
+    "stackTrace": "{full stack trace}"
   }
 }
 ```
