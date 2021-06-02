@@ -4,7 +4,7 @@
 This is a set of common error objects/extensions I use in my APIs. These are all extensions of the [RFC7870](https://datatracker.ietf.org/doc/html/rfc7807) specification.
 
 ## Simple Example
-The simplest form of RFC7807 error my apps produce looks like thissimple example:
+The simplest form of RFC7807 error my apps produce looks like this simple example:
 
 ```
 {
